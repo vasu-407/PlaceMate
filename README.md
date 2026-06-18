@@ -1,4 +1,5 @@
-# Developer Readiness Analyzer (DRA)
+# PlaceMate
+
 
 A full-stack MERN application that analyzes a student's software development readiness using LeetCode profile, GitHub profile, resume quality, technical skills, projects, and CGPA.
 
